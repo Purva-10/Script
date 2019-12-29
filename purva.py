@@ -9,8 +9,4 @@ elif
 echo "wrong input"
 fi
 
-====================================
-
-
-Print "Welcome to Pune"
-Print "Welcome Purva Kadu"
+===========================
